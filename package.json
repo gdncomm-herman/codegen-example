@@ -1,0 +1,15 @@
+{
+  "name": "codegen-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "codegen": "codegen-openapi-ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "codegen-openapi-ts": "^0.9.0-alpha.6"
+  }
+}
